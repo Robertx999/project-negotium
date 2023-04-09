@@ -2,6 +2,7 @@
 An all in one stock market, crypto, cloud storage and chat dashboard/app.
 
 Built with:
+
 ![sveltekit_tailwindcss_thumbnail](https://user-images.githubusercontent.com/26821114/228897023-ff512e68-5314-4bc0-b32d-001953e3733f.png)
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
