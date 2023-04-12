@@ -84,6 +84,7 @@
 <div class="w-full h-full min-w-fit relative overflow-clip">
 	<div class="w-screen h-full overflow-auto gradient-mask">
 		<slot />
+		<div class="h-16" />
 	</div>
 	<div class="w-full h-fit absolute bottom-0 flex items-center justify-center">
 		<div bind:offsetWidth={btnGroupOffsetWidth} class="w-fit flex flex-col items-end justify-end">

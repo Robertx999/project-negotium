@@ -21,7 +21,7 @@
 	};
 
 	onMount(() => {
-		console.log(Object.entries(Object.entries(Object.entries(fileStructure)[0][1][0])[0][1][0]));
+		console.log(Object.entries(fileStructure));
 	});
 </script>
 
