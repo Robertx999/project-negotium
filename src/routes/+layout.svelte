@@ -136,6 +136,6 @@
 
 <style lang="postcss">
 	.gradient-mask {
-		mask-image: linear-gradient(180deg, #000 90%, transparent);
+		mask-image: linear-gradient(180deg, #000 90%, #fff2);
 	}
 </style>

@@ -5,11 +5,15 @@
 	export let filled = false;
 	export let href = '';
 	export let click = () => {};
+	export let name = '',
+		value = '';
 
 	const group = getContext('group');
 </script>
 
 <button
+	{name}
+	{value}
 	on:click={() => {
 		click();
 		// setTimeout(() => {
